@@ -1,4 +1,4 @@
-body {background: url("http://wallpapercave.com/wp/lbEpe4K.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://wallpapercave.com/wp/HuF9sgh.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -13,7 +13,7 @@ border-bottom: 1px solid #000;
 
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -37,27 +37,27 @@ color: #000000;
 /* Topbar */
  
 .topbar {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 1px solid #000;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 }
 
 .badge {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 1px solid #000;
 }
  
 /* Navigational Bar */
  
 .main {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 1px solid #000;
 box-shadow: none;
 }
  
 .navbar {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border-bottom: 1px solid #000;
 color: #000;196
 }
@@ -78,7 +78,7 @@ border-right: 1px solid #000;
 /* Sidebar */
  
 .sidebar {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 0px solid #000;
 border-bottom: 1px solid #000;
 border-left: 1px solid #000;
@@ -86,7 +86,7 @@ color: #000;
 }
  
 .col-md-3 .panel {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 1px solid #000;
 box-shadow: none;    
 }
@@ -104,7 +104,7 @@ border: 1px solid #000;
 /* Chat */
  
 .chat_light, .chat_dark {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 font-size: 11px;
 color: #000;
 }
@@ -119,18 +119,18 @@ background: none;
 
 .alert-danger {
 color: #000000;
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 1px solid #000;
 }
 
 .alert-success {
 color: #000;
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 1px solid #000;
 }
 
 .breadcrumb {
-background:  rgba(196, 242, 235, 0.21);
+background:  rgba(196, 242, 235, 0.70);
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -159,7 +159,7 @@ border: 1px solid #000;
  
 .table, .item {
 border: 1px solid #000;
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border-collapse: separate;
 }
 
@@ -170,7 +170,7 @@ border: 0px solid #000;
 
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 color: #000;
 }
 
@@ -182,12 +182,12 @@ color: #000;
 
 .table .left {
 border: 1px solid #000;
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 color: #000;
 }
 
 .inner-table .right {
-background: rgba(196, 242, 235, 0.21);
+background: rgba(196, 242, 235, 0.70);
 border: 1px solid #000;
 border-left: none;
 }
